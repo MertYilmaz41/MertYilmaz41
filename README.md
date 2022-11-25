@@ -3,11 +3,6 @@
 <h4 align="center">A curious software developer at Etiya. Graduated from Sakarya Uygulamalı Bilimler University.</h4>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <details>
   <summary>☎️ Contact me</summary>
 <div>
